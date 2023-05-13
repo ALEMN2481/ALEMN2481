@@ -1,4 +1,4 @@
-# hi i'm sebastian ✈
+# Hi I'm sebastian ✈
 ### Software developer in training
 ![](https://komarev.com/ghpvc/?username=ALEMN2481&color=blue) 
 
