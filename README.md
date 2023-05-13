@@ -1,7 +1,7 @@
 # hi i'm sebastian ✈️
 ### Programador en curso..
 ![](https://komarev.com/ghpvc/?username=ALEMN2481&color=brightgreen) 
-<br>
+
 I am Sebastián, a tenth grade student, I live in the city of Cali, Colombia, passionate about programming and technology with the goal of being able to learn the fundamentals of programming and contribute my knowledge to projects.
 <br> 
 <p align="center"> 
