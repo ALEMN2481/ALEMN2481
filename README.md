@@ -12,7 +12,7 @@ I am Sebastián, a tenth grade student, I live in the city of Cali, Colombia, pa
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEMN2481&layout=compact&theme=transparent"/> 
 </div> 
-< br> 
+<br>
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ALEMN2481&show_icons=true&theme=transparent&hide=contribs"/> 
 
