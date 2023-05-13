@@ -6,7 +6,7 @@ I am Sebastián, a tenth grade student, I live in the city of Cali, Colombia, pa
 <br> 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,raspberrypi" /> 
+    <img src="https://skillicons.dev/icons?i=js,html,css" /> 
   </a> 
 </p > 
 <div align="center"> 
