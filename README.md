@@ -15,10 +15,6 @@ I am Sebastián, a tenth grade student, I live in the city of Cali, Colombia, pa
 < br> 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ALEMN2481&show_icons=true&theme=transparent&hide=contribs"/> 
-  <br>  
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=para-la-insignia" height="35" alt="logotipo de linkedin" /> 
-  </a> 
-</div> 
 
 
 <!--
