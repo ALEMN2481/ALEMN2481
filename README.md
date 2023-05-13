@@ -1,12 +1,16 @@
-# hi i'm sebastian ✈️
-### Programador en curso..
-![](https://komarev.com/ghpvc/?username=ALEMN2481&color=brightgreen) 
+# hi i'm sebastian ✈
+### Software developer in training
+![](https://komarev.com/ghpvc/?username=ALEMN2481&color=blue) 
 
 I am Sebastián, a tenth grade student, I live in the city of Cali, Colombia, passionate about programming and technology with the goal of being able to learn the fundamentals of programming and contribute my knowledge to projects.
 <br> 
+<div align="center">
+<img src="https://i.pinimg.com/originals/51/5a/8d/515a8da287ae3d77dfbf851515c63734.gif" height="50" width="50" >
+ </div>
+<br>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" /> 
+    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,discord" /> 
   </a> 
 </p > 
 <div align="center"> 
