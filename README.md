@@ -11,7 +11,7 @@ I am Sebastián, a tenth grade student, I live in the city of Cali, Colombia, pa
     <img src="https://skillicons.dev/icons?i=js,python,html,css,arduino,discord" /> 
   </a> 
 </p > 
-  <a href="https://www.linkedin.com/in/luis-david-lopez-zapata-7377a0153/" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-david-lopez-zapata-7377a0153/" target="_blank" align="center">>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
 <div align="center"> 
