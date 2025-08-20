@@ -8,7 +8,7 @@ I am Sebastián, a tenth grade student, I live in the city of Cali, Colombia, pa
 <br>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,html,css,flask,git,arduino,vscode,discord" /> 
+    <img src="https://skillicons.dev/icons?i=js,python,c,java,html,css,flask,git,arduino,vscode,discord" /> 
   </a> 
 </p > 
  <div align="center">
